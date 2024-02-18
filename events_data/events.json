@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Золотой Граммофон",
+        "type": "Концерт",
+        "description": "«Золотой Граммофон» — уникальное событие в российском шоу-бизнесе. Вот уже 28 лет премия удивляет зрителей масштабными номерами и яркой сценографией. И, конечно, из года в год она становится подведением музыкальных итогов прошедшего года.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/zolotoi-grammofon-2024-02-25?source=selection-events",
+        "theme": "развлечение концерт музыка",
+        "date": "25/02/2024",
+        "time": "19:00",
+        "address": "просп. Пятилеток, 1"
+    },
+    {
+        "name": "Панк-культура. Король и Шут",
+        "type": "Выставка",
+        "description": "Панк-культура. Король и Шут Знаменитая панк-выставка теперь в «Севкабеле»",
+        "href": "https://afisha.yandex.ru/saint-petersburg/art/pank-kultura-korol-i-shut?city=saint-petersburg&source=rubric_main_featured&schedule-preset=today",
+        "theme": "выставка культура панк панк-выставка",
+        "date": "28/02/2024",
+        "time": "10:00",
+        "address": "В.О., Кожевенная линия, 40"
+    },
+    {
+        "name": "Мастер и Маргарита",
+        "type": "Спектакль",
+        "description": "Мастер и Маргарита Интерактивное шоу с влюблённым Воландом и 3D декорациями",
+        "href": "https://afisha.yandex.ru/saint-petersburg/musical/master-i-margarita-ldm?source=selection-events",
+        "theme": "спектакль мюзикл",
+        "date": "05/03/2024",
+        "time": "19:00",
+        "address": "Петровский просп., 20, лит. Д"
+    },
+    {
+        "name": "Кино",
+        "type": "Концерт",
+        "description": "«Кино» возвращается с большими концертами и обновленной программой «История этого мира».",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/kino-istoriia-etogo-mira?city=saint-petersburg&source=rubric_main_featured",
+        "theme": "концерт кино рок",
+        "date": "10/04/2024",
+        "time": "19:00",
+        "address": "просп. Пятилеток, 1"
+    },
+    {
+        "name": "HammAli & Navai",
+        "type": "Концерт",
+        "description": "«HammAli & Navai — пожалуй, самая успешная группа страны. Мощно стартовав, весной 2018-го дуэт выпускают дебютную пластинку Janavi, которая становится самым прослушиваемым релизом года в сервисе Boom — с этого момента о группе узнает вся страна.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/hammali-navai-bolshoi-iubileinyi-tur?city=saint-petersburg&source=rubric_main_featured",
+        "theme": "концерт хип-хоп рэп",
+        "date": "21/03/2024",
+        "time": "20:00",
+        "address": "Футбольная аллея, 8"
+    },
+    {
+        "name": "ЛСП",
+        "type": "Концерт",
+        "description": "Тур «Несчастные люди»",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/lsp-tour?source=event",
+        "theme": "концерт хип-хоп рэп",
+        "date": "01/03/2024",
+        "time": "19:00",
+        "address": "Приморский просп., 80, стр. 1"
+    },
+    {
+        "name": "СУБД PostgreSQL",
+        "type": "Соревнование",
+        "description": "Конкурс «СУБД PostgreSQL» — состязание для тех, кто готов проверить свои знания по базам данных! Конкурс пройдет в рамках XIV Международной олимпиады в сфере информационных технологий «IT-Планета 2023».",
+        "href": "https://news.itmo.ru/ru/contest/99733/",
+        "theme": "соревнование конкурс sql PostgreSQL СУБД ИТМО",
+        "date": "01/02/2024",
+        "time": "19:00",
+        "address": "Кронверкский пр., 49"
+    },
+    {
+        "name": "XIII Конгресс молодых ученых ИТМО",
+        "type": "Конференция",
+        "description": "Возможности: поступить в магистратуру ИТМО без вступительных экзаменов;получить максимальный балл за вступительный экзамен по специальности при поступлении в аспирантуру ИТМО по согласованию с конкурсной комиссией; познакомиться с научным сообществом ИТМО; поучаствовать в мастер-классах для подготовки к своему выступлению; найти единомышленников.",
+        "href": "https://news.itmo.ru/ru/contest/98205/",
+        "theme": "конференция конгресс конкурс ИТМО",
+        "date": "08/01/2024",
+        "time": "23:59",
+        "address": "Кронверкский пр., 49"
+    },
+    {
+        "name": "Конкурс на выполнение ПО НИОКТР",
+        "type": "Конкурс",
+        "description": "Стартовал прием заявок на участие в конкурсе на выполнение практико-ориентированных научно-исследовательских опытно-конструкторских работ (ПО НИОКТР)",
+        "href": "https://news.itmo.ru/ru/contest/98205/",
+        "theme": "НИОКТР конкурс ИТМО",
+        "date": "12/02/2024",
+        "time": "23:59",
+        "address": "Кронверкский пр., 49"
+    },
+    {
+        "name": "Всемирный фестиваль молодежи 2024",
+        "type": "Фестиваль",
+        "description": "Фестиваль – это площадка для открытого разговора и обмена мнениями, а также нетворкинга: Здесь каждый может высказать свою позицию и быть услышанным. Найти единомышленников в решении различных социальных проблем. Делиться идеями и мнением о происходящих ситуациях в мире.  ",
+        "href": "https://news.itmo.ru/ru/announce/91169/",
+        "theme": "фестиваль",
+        "date": "01/03/2024",
+        "time": "23:59",
+        "address": "Сочи"
+    },
+    {
+        "name": "Наедине",
+        "type": "Спектакль",
+        "description": "Проект театрального агентства «Арт-партнёр», поставленный талантливым режиссёром Никитой Кобелевым. В основе сюжета — пьесы драматурга Дона Нигро.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/theatre_show/naedine-art-partner?source=selection-events",
+        "theme": "спектакль драма",
+        "date": "28/02/2024",
+        "time": "19:00",
+        "address": "Александровский парк, 4"
+    },
+    {
+        "name": "Stand-up концерт опытных комиков",
+        "type": "Шоу",
+        "description": "Опытные Stand-up комики проверят материал для ТНТ и интернет проектов, выступят со своими лучшими и новыми шутками, и порадуют импровизацией. Прекрасная кухня и бар по доступным ценам!",
+        "href": "https://afisha.yandex.ru/saint-petersburg/standup/stand-up-kontsert-opytnykh-komikov-standuplabspb?city=saint-petersburg",
+        "theme": "стендап шоу юмор",
+        "date": "18/02/2024",
+        "time": "20:00",
+        "address": "ул. Большая Морская, 22"
+    },
+    {
+        "name": "Орган при свечах",
+        "type": "Концерт",
+        "description": "Приглашаем жителей и гостей города на уникальный органный концерт, который пройдёт при свечах под сводами старинного лютеранского собора.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/standup/stand-up-kontsert-opytnykh-komikov-standuplabspb?city=saint-petersburg",
+        "theme": "концерт классическая музыка орган",
+        "date": "23/02/2024",
+        "time": "21:00",
+        "address": "Невский просп., 22–24"
+    },
+    {
+        "name": "Вивальди",
+        "type": "Концерт",
+        "description": "В темноте концертного зала прозвучат всемирно известные произведения Вивальди, Чайковского, Моцарта, Брамса и других великих композиторов в исполнении оркестра Olympic Orchestra, где над сценой будут спроецированы живые и красочные картины на воде.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/vivaldi-vremena-goda-olympic-orchestra-annekirhe?city=saint-petersburg&source=rubric_main_featured",
+        "theme": "концерт классическая музыка",
+        "date": "21/02/2024",
+        "time": "22:30",
+        "address": "ул. Кирочная, 8B"
+    },
+    {
+        "name": "Cinema Medley: Путешествие в Мультилэнд",
+        "type": "Концерт",
+        "description": "Imperial Orchestra представит новое симфоническое шоу саундтреков из мультфильмов — Cinema Medley: Путешествие в Мультилэнд!",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/cinema-medley-puteshestvie-v-multilend?city=saint-petersburg&source=rubric_main_featured",
+        "theme": "концерт шоу классическая музыка саундтрек детям",
+        "date": "18/02/2024",
+        "time": "17:00",
+        "address": "Приморский просп., 80, стр. 1"
+    },
+    {
+        "name": "Cinema Medley: Путешествие в Мультилэнд",
+        "type": "Концерт",
+        "description": "Imperial Orchestra представит новое симфоническое шоу саундтреков из мультфильмов — Cinema Medley: Путешествие в Мультилэнд!",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/cinema-medley-puteshestvie-v-multilend?city=saint-petersburg&source=rubric_main_featured",
+        "theme": "концерт шоу классическая музыка саундтрек детям",
+        "date": "18/02/2024",
+        "time": "17:00",
+        "address": "Приморский просп., 80, стр. 1"
+    },
+    {
+        "name": "FEDUK",
+        "type": "Концерт",
+        "description": "Feduk отправляется в тур «Любовь в твоём городе» и это бэнгер!",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/feduk-tour?source=event",
+        "theme": "концерт хип-хоп рэп",
+        "date": "12/04/2024",
+        "time": "20:00",
+        "address": "просп. Медиков, 3"
+    },
+    {
+        "name": "Петербургский международный экономический форум 2024",
+        "type": "Конференция",
+        "description": "Петербургский международный экономический форум (ПМЭФ) – уникальное событие в мире экономики и бизнеса.",
+        "href": "https://peterburg2.ru/events/peterburgskiy-mezhdunarodnyy-ekonomicheskiy-forum-2024-224219.html",
+        "theme": "конференция форум экономика",
+        "date": "05/06/2024",
+        "time": "11:00",
+        "address": "СПб, ш. Петербургское, д. 64, к. 1, лит. А"
+    },
+    {
+        "name": "School on Acoustics: from Fundamentals to Frontiers",
+        "type": "Конференция",
+        "description": "Новый физтех ИТМО приглашает принять участие в , которая будет проходить на базе Центра инноваций и развития Харбинского инженерного университета в г. Циндао (Qingdao Innovation and Development Center of Harbin Engineering University).",
+        "href": "https://news.itmo.ru/ru/announce/99180/",
+        "theme": "конференция школа ИТМО",
+        "date": "08/03/2024",
+        "time": "11:00",
+        "address": "Кронверкский пр., 49"
+    },
+    {
+        "name": "Cinema Medley: Hans Zimmer’s Universe",
+        "type": "Концерт",
+        "description": "Грандиозное шоу саундтреков от симфонического оркестра Imperial Orchestra (Санкт-Петербург) в рамках большого концертного тура по России!",
+        "href": "https://afisha.yandex.ru/saint-petersburg/concert/hans-zimmers-universe?source=selection-events",
+        "theme": "концерт шоу саундтрек современная музыка классическая музыка",
+        "date": "30/03/2024",
+        "time": "19:00",
+        "address": "просп. Пятилеток, 1"
+    },
+    {
+        "name": "Пропавшие в кинохронике",
+        "type": "Выставка",
+        "description": "В самом крупном павильоне «Ленфильма» — легендарной «пятёрке», появилась иммерсивная инсталляция из 15 разных эпизодов, объединенных одним маршрутом и аудиорассказом. Здесь каждый посетитель сможет ощутить близость истории и реальность прошлого.",
+        "href": "https://afisha.yandex.ru/saint-petersburg/art/propavshie-v-kinokhronike?source=selection-events&schedule-preset=today",
+        "theme": "выставка история культура искусство кинематограф",
+        "date": "18/02/2024",
+        "time": "17:00",
+        "address": "Каменноостровский просп., 10"
+    }
+]

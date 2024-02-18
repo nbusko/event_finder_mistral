@@ -1,0 +1,40 @@
+version: "2.3"
+
+services:
+  app:
+    restart: always
+    container_name: app
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+    - "8100:8100"
+    depends_on:
+    - ai_manager
+
+  mongodb:
+    restart: always
+    mem_limit: 8G
+    container_name: mongoDB
+    image: mongo:latest
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_LOGIN}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_PASSWD}
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongodb_data_cont:/data/db
+
+  ai_manager:
+    restart: always
+    mem_limit: 32G
+    image: ai_manger:latest
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+    - "5100:5100"
+    environment:
+      - EVENTS_DIR=${EVENTS_DIR}
+    volumes:
+    - ./${EVENTS_DIR}:${EVENTS_DIR}
